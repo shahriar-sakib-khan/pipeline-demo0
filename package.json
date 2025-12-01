@@ -1,0 +1,13 @@
+{
+  "name": "pipeline-demo0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Shahriar Sakib",
+  "license": "ISC",
+  "description": ""
+}
